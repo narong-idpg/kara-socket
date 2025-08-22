@@ -1,0 +1,18 @@
+{
+  "name": "karaoke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "libtimidity-for-worklet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "start-prod": "NODE_ENV=prod node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@loskir/styled-qr-code-node": "^1.5.2",
+    "express": "^4.21.0",
+    "express-ws": "^5.0.2",
+  }
+}
