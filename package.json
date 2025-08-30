@@ -12,7 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "@loskir/styled-qr-code-node": "^1.5.2",
+    "dotenv": "^17.2.1",
     "express": "^4.21.0",
-    "express-ws": "^5.0.2"
+    "express-ws": "^5.0.2",
+    "jsonwebtoken": "^9.0.2"
   }
 }
